@@ -2,15 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Julia](https://img.shields.io/badge/Julia-1.9+-blue.svg)](https://julialang.org/)
-[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.mechmat.2026.XXXXXX-brightgreen)](https://doi.org/10.1016/j.mechmat.2025.XXXXXX)
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.mechmat.2026.105627-brightgreen)](https://doi.org/10.1016/j.mechmat.2026.105627)
 
 This repository contains the computational implementation of the phase-field fracture framework described in:
 
-<<<<<<< HEAD
-> **Vigliotti, A.** (2025). "Multiscale Phase-Field Analysis of Nacre's Asymmetric Mechanical Strength: A Dual Damage Field Approach with Variational Irreversibility Constraints." *Mechanics of Materials*. https://doi.org/10.1016/j.mechmat.2025.XXXXXX
-=======
 > **Vigliotti, A.** (2025). "Multiscale Phase-Field Analysis of Nacre's Asymmetric Mechanical Strength: A Dual Damage Field Approach with Variational Irreversibility Constraints." *Mechanics of Materials*. https://authors.elsevier.com/sd/article/S0167-6636(26)00031-1
->>>>>>> 7d7eeab (initial committ)
 
 ## Overview
 
