@@ -529,14 +529,17 @@ Output `.pvd` files can be opened in [ParaView](https://www.paraview.org/) for 3
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{Vigliotti2025,
-  title = {Multiscale Phase-Field Analysis of Nacre's Asymmetric Mechanical Strength: A Dual Damage Field Approach with Variational Irreversibility Constraints},
-  author = {Vigliotti, Andrea},
-  journal = {Mechanics of Materials},
-  year = {2026},
-  volume = {###},
-  pages = {###},
-  doi = {10.1016/j.mechmat.2026.###}
+@article{VIGLIOTTI2026105627,
+title = {Multiscale phase-field analysis of nacre’s asymmetric mechanical strength. A dual damage field approach with variational irreversibility constraints},
+journal = {Mechanics of Materials},
+volume = {216},
+pages = {105627},
+year = {2026},
+issn = {0167-6636},
+doi = {https://doi.org/10.1016/j.mechmat.2026.105627},
+url = {https://www.sciencedirect.com/science/article/pii/S0167663626000311},
+author = {Andrea Vigliotti},
+keywords = {Nacre, Tension–compression asymmetry, Phase-field modeling, Damage mechanics, Bio-inspired materials, Brittle composites}
 }
 ```
 ---
